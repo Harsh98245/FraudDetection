@@ -5,8 +5,9 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-Optional-green.svg)](https://lightgbm.readthedocs.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A comprehensive machine learning pipeline for fraud detection that processes transaction data, performs advanced feature engineering, and builds multiple ML models to identify fraudulent transactions with high accuracy.
+A comprehensive machine learning pipeline for fraud detection that processes transaction data, performs advanced feature engineering, and builds multiple ML models to identify fraudulent transactions with high accuracy. The system is fully deployed as an interactive web application, allowing real-time fraud prediction.
 
+🔗 Live Demo: https://frauddetection-enmgq7m5fpvpw6swmbfnfb.streamlit.app/
 ## 🎯 **Project Overview**
 
 This project implements an end-to-end fraud detection system that:
