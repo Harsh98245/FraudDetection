@@ -74,7 +74,7 @@ fraud-detection-pipeline/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/fraud-detection-pipeline.git
+git clone https://github.com/Harsh98245/fraud-detection-pipeline.git
 cd fraud-detection-pipeline
 ```
 
@@ -349,7 +349,7 @@ We welcome contributions! Please see our contributing guidelines:
 ## 👨‍💻 **Author**
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Harsh98245)
+- GitHub: [@Harsh98245](https://github.com/Harsh98245)
 - LinkedIn: [your-profile](https://www.linkedin.com/in/harsh-khandelwal-993212295/)
 - Email: harshkhandelwal129@gmail.com
 
